@@ -1,4 +1,4 @@
-from modals import Movie, Theater
+from Movietickets.modals import Movie, Theater
 from enum import Enum
 from datetime import datetime
 
