@@ -1,5 +1,5 @@
 class Theater:
-    def __init__(self, name, city, seating_capacity):
+    def __init__(self, theater_id, name, city):
+        self.theater_id = theater_id
         self.name = name
         self.city = city
-        self.seating_capacity = seating_capacity
